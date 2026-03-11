@@ -1,5 +1,8 @@
 # Informacja
-Template na pewno wykorzystywany w mailach wysyłanych do kursantów poprzez panel instruktora kursu.
+Templateyna wykorzystywane w mailach wysyłanych do kursantów.
+
+# Zawartość
+- og_template_2013 - wykorzystywany podczas wysyłania maili przy pomocy panelu instruktora kursu
 
 # Korzystanie
 1. Modyfikujemy og_template_2013/modifying/plain-hmtl.txt zgodnie z potrzebami.
