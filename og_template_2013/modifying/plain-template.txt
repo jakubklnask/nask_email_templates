@@ -1,0 +1,20 @@
+{course_title}
+
+{{message_body}}
+
+--------------------------------------------------
+NASK
+Kontakt: nask@nask.pl | tel. 22 380 82 00
+Adres: ul. Kolska 12, 01-045 Warszawa
+
+Copyright © {year} NASK. Wszelkie prawa zastrzeżone.
+--------------------------------------------------
+
+Śledź NASK:
+Facebook: https://www.facebook.com/NASKpl/
+X (Twitter): https://x.com/NASK_pl
+LinkedIn: https://www.linkedin.com/company/nask/
+
+--------------------------------------------------
+Ta wiadomość została wysłana automatycznie z platformy {platform_name}.
+Otrzymujesz ten e-mail, ponieważ jesteś uczestnikiem kursu {course_title}.
